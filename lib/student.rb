@@ -1,4 +1,4 @@
-class Student 
+class Student < Vehicle
   
   
   def learn(string)
